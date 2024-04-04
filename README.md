@@ -58,7 +58,7 @@ STEP-5 Program the FPGA with the compiled design to test the functionality of th
 # Program:
 
 ```
-Developed by: veerargavanv27
+Developed by: Veerargaavan V
 Register number: 212223230237
 
 module fulladdsub(a,b,c,sum,carry,BO,DIFF);
